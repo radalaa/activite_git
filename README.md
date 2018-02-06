@@ -1,2 +1,2 @@
 # activite_git
-Activité du cours git
+c'est un fichier trés util
